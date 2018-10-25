@@ -1,0 +1,1001 @@
+B1	;	Never Let Me Go 	;	Kazuo Ishiguro		;	2007
+B10	;	Vanishing Point 	;	David Markson		;	1829
+B100	;	The Untouchable 	;	John Banville		;	1723
+B1000	;	Metamorphoses 	;	Ovid		;	1860
+B1001	;	Aesop’s Fables 	;	Aesopus		;	1987
+B101	;	Silk 	;	Alessandro Baricco		;	1718
+B102	;	Cocaine Nights 	;	J.G. Ballard		;	1766
+B103	;	Hallucinating Foucault 	;	Patricia Duncker		;	1845
+B104	;	Fugitive Pieces 	;	Anne Michaels		;	1778
+B105	;	The Ghost Road 	;	Pat Barker		;	1967
+B106	;	Forever a Stranger 	;	Hella Haasse		;	1953
+B107	;	Infinite Jest 	;	David Foster Wallace		;	1897
+B108	;	The Clay Machine-Gun 	;	Victor Pelevin		;	1730
+B109	;	Alias Grace 	;	Margaret Atwood		;	1772
+B11	;	The Lambs of London 	;	Peter Ackroyd		;	1974
+B110	;	The Unconsoled 	;	Kazuo Ishiguro		;	1864
+B111	;	Morvern Callar 	;	Alan Warner		;	1985
+B112	;	The Information 	;	Martin Amis		;	1921
+B113	;	The Moor’s Last Sigh 	;	Salman Rushdie		;	1937
+B114	;	Sabbath’s Theater 	;	Philip Roth		;	1946
+B115	;	The Rings of Saturn 	;	W.G. Sebald		;	1723
+B116	;	The Reader 	;	Bernhard Schlink		;	1993
+B117	;	A Fine Balance 	;	Rohinton Mistry		;	1893
+B118	;	Love’s Work 	;	Gillian Rose		;	1730
+B119	;	The End of the Story 	;	Lydia Davis		;	1978
+B12	;	Dining on Stones 	;	Iain Sinclair		;	1954
+B120	;	Mr. Vertigo 	;	Paul Auster		;	1989
+B121	;	The Folding Star 	;	Alan Hollinghurst		;	1945
+B122	;	Whatever 	;	Michel Houellebecq		;	1773
+B123	;	Land 	;	Park Kyong-ni		;	1920
+B124	;	The Master of Petersburg 	;	J.M. Coetzee		;	1871
+B125	;	The Wind-Up Bird Chronicle 	;	Haruki Murakami		;	1909
+B126	;	Pereira Declares: A Testimony 	;	Antonio Tabucchi		;	1716
+B127	;	City Sister Silver 	;	Jàchym Topol		;	1799
+B128	;	How Late It Was, How Late 	;	James Kelman		;	1708
+B129	;	Captain Corelli’s Mandolin 	;	Louis de Bernieres		;	1780
+B13	;	Cloud Atlas 	;	David Mitchell		;	1751
+B130	;	Felicia’s Journey 	;	William Trevor		;	1873
+B131	;	Disappearance 	;	David Dabydeen		;	1916
+B132	;	The Invention of Curried Sausage 	;	Uwe Timm		;	1995
+B133	;	The Shipping News 	;	E. Annie Proulx		;	1827
+B134	;	Trainspotting 	;	Irvine Welsh		;	1874
+B135	;	Birdsong 	;	Sebastian Faulks		;	1748
+B136	;	Looking for the Possible Dance 	;	A.L. Kennedy		;	1972
+B137	;	Operation Shylock 	;	Philip Roth		;	1777
+B138	;	Complicity 	;	Iain Banks		;	1980
+B139	;	On Love 	;	Alain de Botton		;	1833
+B14	;	Drop City 	;	T. Coraghessan Boyle		;	1843
+B140	;	What a Carve Up! 	;	Jonathan Coe		;	1793
+B141	;	A Suitable Boy 	;	Vikram Seth		;	1716
+B142	;	The Stone Diaries 	;	Carol Shields		;	1750
+B143	;	The Virgin Suicides 	;	Jeffrey Eugenides		;	1805
+B144	;	The House of Doctor Dee 	;	Peter Ackroyd		;	1837
+B145	;	The Robber Bride 	;	Margaret Atwood		;	1736
+B146	;	The Emigrants 	;	W.G. Sebald		;	1916
+B147	;	The Secret History 	;	Donna Tartt		;	1803
+B148	;	Life is a Caravanserai 	;	Emine Özdamar		;	1970
+B149	;	The Discovery of Heaven 	;	Harry Mulisch		;	1831
+B15	;	The Colour 	;	Rose Tremain		;	1897
+B150	;	A Heart So White 	;	Javier Marias		;	1998
+B151	;	Possessing the Secret of Joy 	;	Alice Walker		;	1877
+B152	;	Indigo 	;	Marina Warner		;	1824
+B153	;	The Crow Road 	;	Iain Banks		;	1776
+B154	;	Written on the Body 	;	Jeanette Winterson		;	1830
+B155	;	Jazz 	;	Toni Morrison		;	1712
+B156	;	The English Patient 	;	Michael Ondaatje		;	1863
+B157	;	Smilla’s Sense of Snow 	;	Peter Høeg		;	1884
+B158	;	The Butcher Boy 	;	Patrick McCabe		;	1818
+B159	;	Black Water 	;	Joyce Carol Oates		;	1827
+B16	;	Thursbitch 	;	Alan Garner		;	1825
+B160	;	The Heather Blazing 	;	Colm Tóibín		;	1806
+B161	;	Asphodel 	;	H.D. (Hilda Doolittle)		;	1722
+B162	;	Black Dogs 	;	Ian McEwan		;	1770
+B163	;	Hideous Kinky 	;	Esther Freud		;	2001
+B164	;	Arcadia 	;	Jim Crace		;	1784
+B165	;	Wild Swans 	;	Jung Chang		;	1846
+B166	;	American Psycho 	;	Bret Easton Ellis		;	1804
+B167	;	Time’s Arrow 	;	Martin Amis		;	1859
+B168	;	Mao II 	;	Don DeLillo		;	1730
+B169	;	Typical 	;	Padgett Powell		;	1701
+B17	;	The Light of Day 	;	Graham Swift		;	1869
+B170	;	Regeneration 	;	Pat Barker		;	1830
+B171	;	Downriver 	;	Iain Sinclair		;	1713
+B172	;	Señor Vivo and the Coca Lord 	;	Louis de Bernieres		;	1756
+B173	;	Wise Children 	;	Angela Carter		;	1856
+B174	;	Get Shorty 	;	Elmore Leonard		;	1990
+B175	;	Amongst Women 	;	John McGahern		;	1968
+B176	;	Vineland 	;	Thomas Pynchon		;	1829
+B177	;	Vertigo 	;	W.G. Sebald		;	1862
+B178	;	Stone Junction 	;	Jim Dodge		;	1803
+B179	;	The Music of Chance 	;	Paul Auster		;	1904
+B18	;	What I Loved 	;	Siri Hustvedt		;	1915
+B180	;	The Things They Carried 	;	Tim O’Brien		;	1950
+B181	;	A Home at the End of the World 	;	Michael Cunningham		;	1762
+B182	;	Like Life 	;	Lorrie Moore		;	2006
+B183	;	Possession 	;	A.S. Byatt		;	1831
+B184	;	The Buddha of Suburbia 	;	Hanif Kureishi		;	1734
+B185	;	The Midnight Examiner 	;	William Kotzwinkle		;	1973
+B186	;	A Disaffection 	;	James Kelman		;	1926
+B187	;	Sexing the Cherry 	;	Jeanette Winterson		;	1890
+B188	;	Moon Palace 	;	Paul Auster		;	1974
+B189	;	Billy Bathgate 	;	E.L. Doctorow		;	1716
+B19	;	The Curious Incident of the Dog in the Night-Time 	;	Mark Haddon		;	1940
+B190	;	Remains of the Day 	;	Kazuo Ishiguro		;	1809
+B191	;	The Melancholy of Resistance 	;	László Krasznahorkai		;	1954
+B192	;	The Temple of My Familiar 	;	Alice Walker		;	1859
+B193	;	The Trick is to Keep Breathing 	;	Janice Galloway		;	1915
+B194	;	The History of the Siege of Lisbon 	;	José Saramago		;	1817
+B195	;	Like Water for Chocolate 	;	Laura Esquivel		;	1882
+B196	;	A Prayer for Owen Meany 	;	John Irving		;	1799
+B197	;	London Fields 	;	Martin Amis		;	1907
+B198	;	The Book of Evidence 	;	John Banville		;	1767
+B199	;	Cat’s Eye 	;	Margaret Atwood		;	1764
+B2	;	Saturday 	;	Ian McEwan		;	1980
+B20	;	Islands 	;	Dan Sleigh		;	1902
+B200	;	Foucault’s Pendulum 	;	Umberto Eco		;	1952
+B201	;	The Beautiful Room is Empty 	;	Edmund White		;	1799
+B202	;	Wittgenstein’s Mistress 	;	David Markson		;	1862
+B203	;	The Satanic Verses 	;	Salman Rushdie		;	1961
+B204	;	The Swimming-Pool Library 	;	Alan Hollinghurst		;	1702
+B205	;	Oscar and Lucinda 	;	Peter Carey		;	1920
+B206	;	Libra 	;	Don DeLillo		;	1998
+B207	;	The Player of Games 	;	Iain M. Banks		;	1790
+B208	;	Nervous Conditions 	;	Tsitsi Dangarembga		;	1767
+B209	;	The Long Dark Teatime of the Soul 	;	Douglas Adams		;	1816
+B21	;	Elizabeth Costello 	;	J.M. Coetzee		;	1726
+B210	;	Dirk Gently’s Holistic Detective Agency 	;	Douglas Adams		;	1962
+B211	;	The Radiant Way 	;	Margaret Drabble		;	1844
+B212	;	The Afternoon of a Writer 	;	Peter Handke		;	1869
+B213	;	The Black Dahlia 	;	James Ellroy		;	1888
+B214	;	The Passion 	;	Jeanette Winterson		;	1700
+B215	;	The Pigeon 	;	Patrick Süskind		;	1860
+B216	;	The Child in Time 	;	Ian McEwan		;	1979
+B217	;	Cigarettes 	;	Harry Mathews		;	1740
+B218	;	The Bonfire of the Vanities 	;	Tom Wolfe		;	1806
+B219	;	The New York Trilogy 	;	Paul Auster		;	1807
+B22	;	London Orbital 	;	Iain Sinclair		;	1973
+B220	;	World’s End 	;	T. Coraghessan Boyle		;	1970
+B221	;	Enigma of Arrival 	;	V.S. Naipaul		;	2011
+B222	;	The Taebek Mountains 	;	Jo Jung-rae		;	1765
+B223	;	Beloved 	;	Toni Morrison		;	1865
+B224	;	Anagrams 	;	Lorrie Moore		;	1896
+B225	;	Matigari 	;	Ngugi Wa Thiong’o		;	2004
+B226	;	Marya 	;	Joyce Carol Oates		;	1937
+B227	;	Watchmen 	;	Alan Moore & David Gibbons		;	1794
+B228	;	The Old Devils 	;	Kingsley Amis		;	2004
+B229	;	Lost Language of Cranes 	;	David Leavitt		;	1929
+B23	;	Family Matters 	;	Rohinton Mistry		;	1712
+B230	;	An Artist of the Floating World 	;	Kazuo Ishiguro		;	1982
+B231	;	Extinction 	;	Thomas Bernhard		;	1875
+B232	;	Foe 	;	J.M. Coetzee		;	1945
+B233	;	The Drowned and the Saved 	;	Primo Levi		;	1872
+B234	;	Reasons to Live 	;	Amy Hempel		;	1858
+B235	;	The Parable of the Blind 	;	Gert Hofmann		;	1740
+B236	;	Love in the Time of Cholera 	;	Gabriel García Márquez		;	1704
+B237	;	Oranges Are Not the Only Fruit 	;	Jeanette Winterson		;	1822
+B238	;	The Cider House Rules 	;	John Irving		;	1995
+B239	;	A Maggot 	;	John Fowles		;	1853
+B24	;	Fingersmith 	;	Sarah Waters		;	1959
+B240	;	Less Than Zero 	;	Bret Easton Ellis		;	1778
+B241	;	Contact 	;	Carl Sagan		;	1754
+B242	;	The Handmaid’s Tale 	;	Margaret Atwood		;	1794
+B243	;	Perfume 	;	Patrick Süskind		;	1705
+B244	;	Old Masters 	;	Thomas Bernhard		;	1745
+B245	;	White Noise 	;	Don DeLillo		;	1858
+B246	;	Queer 	;	William Burroughs		;	1896
+B247	;	Hawksmoor 	;	Peter Ackroyd		;	1908
+B248	;	Legend 	;	David Gemmell		;	1924
+B249	;	Dictionary of the Khazars 	;	Milorad Pavi?		;	1967
+B25	;	The Double 	;	José Saramago		;	2007
+B250	;	The Bus Conductor Hines 	;	James Kelman		;	1960
+B251	;	The Year of the Death of Ricardo Reis 	;	José Saramago		;	1822
+B252	;	The Lover 	;	Marguerite Duras		;	1717
+B253	;	Empire of the Sun 	;	J.G. Ballard		;	1960
+B254	;	The Wasp Factory 	;	Iain Banks		;	1846
+B255	;	Nights at the Circus 	;	Angela Carter		;	1987
+B256	;	The Unbearable Lightness of Being 	;	Milan Kundera		;	1986
+B257	;	Blood and Guts in High School 	;	Kathy Acker		;	1869
+B258	;	Neuromancer 	;	William Gibson		;	1788
+B259	;	Flaubert’s Parrot 	;	Julian Barnes		;	1946
+B26	;	Everything is Illuminated 	;	Jonathan Safran Foer		;	1763
+B260	;	Money: A Suicide Note 	;	Martin Amis		;	1878
+B261	;	Shame 	;	Salman Rushdie		;	1908
+B262	;	Worstward Ho 	;	Samuel Beckett		;	1809
+B263	;	Fools of Fortune 	;	William Trevor		;	1932
+B264	;	La Brava 	;	Elmore Leonard		;	1953
+B265	;	Waterland 	;	Graham Swift		;	1997
+B266	;	The Life and Times of Michael K 	;	J.M. Coetzee		;	1717
+B267	;	The Diary of Jane Somers 	;	Doris Lessing		;	1744
+B268	;	The Piano Teacher 	;	Elfriede Jelinek		;	1776
+B269	;	The Sorrow of Belgium 	;	Hugo Claus		;	1706
+B27	;	Unless 	;	Carol Shields		;	1849
+B270	;	If Not Now, When? 	;	Primo Levi		;	1714
+B271	;	A Boy’s Own Story 	;	Edmund White		;	1758
+B272	;	The Color Purple 	;	Alice Walker		;	1916
+B273	;	Wittgenstein’s Nephew 	;	Thomas Bernhard		;	1718
+B274	;	A Pale View of Hills 	;	Kazuo Ishiguro		;	1894
+B275	;	Schindler’s Ark 	;	Thomas Keneally		;	1740
+B276	;	The House of the Spirits 	;	Isabel Allende		;	1799
+B277	;	The Newton Letter 	;	John Banville		;	1872
+B278	;	On the Black Hill 	;	Bruce Chatwin		;	1756
+B279	;	Concrete 	;	Thomas Bernhard		;	1724
+B28	;	Kafka on the Shore 	;	Haruki Murakami		;	1934
+B280	;	The Names 	;	Don DeLillo		;	1823
+B281	;	Rabbit is Rich 	;	John Updike		;	1899
+B282	;	Lanark: A Life in Four Books 	;	Alasdair Gray		;	2008
+B283	;	The Comfort of Strangers 	;	Ian McEwan		;	1979
+B284	;	July’s People 	;	Nadine Gordimer		;	1723
+B285	;	Summer in Baden-Baden 	;	Leonid Tsypkin		;	1744
+B286	;	Broken April 	;	Ismail Kadare		;	1769
+B287	;	Waiting for the Barbarians 	;	J.M. Coetzee		;	1738
+B288	;	Midnight’s Children 	;	Salman Rushdie		;	1727
+B289	;	Rites of Passage 	;	William Golding		;	1833
+B29	;	The Story of Lucy Gault 	;	William Trevor		;	1855
+B290	;	Rituals 	;	Cees Nooteboom		;	1745
+B291	;	Confederacy of Dunces 	;	John Kennedy Toole		;	1825
+B292	;	City Primeval 	;	Elmore Leonard		;	1810
+B293	;	The Name of the Rose 	;	Umberto Eco		;	1885
+B294	;	The Book of Laughter and Forgetting 	;	Milan Kundera		;	1957
+B295	;	Smiley’s People 	;	John Le Carré		;	1729
+B296	;	Shikasta 	;	Doris Lessing		;	1897
+B297	;	A Bend in the River 	;	V.S. Naipaul		;	1854
+B299	;	The Safety Net 	;	Heinrich Böll		;	1810
+B3	;	On Beauty 	;	Zadie Smith		;	1767
+B30	;	That They May Face the Rising Sun 	;	John McGahern		;	1885
+B300	;	If On a Winter’s Night a Traveler 	;	Italo Calvino		;	1716
+B301	;	The Hitchhiker’s Guide to the Galaxy 	;	Douglas Adams		;	1750
+B302	;	The Cement Garden 	;	Ian McEwan		;	1710
+B303	;	The World According to Garp 	;	John Irving		;	1854
+B304	;	Life: A User’s Manual 	;	Georges Perec		;	1910
+B305	;	The Sea, The Sea 	;	Iris Murdoch		;	2000
+B306	;	The Singapore Grip 	;	J.G. Farrell		;	1893
+B307	;	Yes 	;	Thomas Bernhard		;	1879
+B308	;	The Virgin in the Garden 	;	A.S. Byatt		;	2001
+B309	;	In the Heart of the Country 	;	J.M. Coetzee		;	1845
+B31	;	In the Forest 	;	Edna O’Brien		;	1924
+B310	;	The Passion of New Eve 	;	Angela Carter		;	1964
+B311	;	Delta of Venus 	;	Anaïs Nin		;	1957
+B312	;	The Shining 	;	Stephen King		;	1856
+B313	;	Dispatches 	;	Michael Herr		;	1877
+B314	;	Petals of Blood 	;	Ngugi Wa Thiong’o		;	1896
+B315	;	Song of Solomon 	;	Toni Morrison		;	1816
+B316	;	The Hour of the Star 	;	Clarice Lispector		;	1870
+B317	;	The Left-Handed Woman 	;	Peter Handke		;	1900
+B318	;	Ratner’s Star 	;	Don DeLillo		;	1868
+B319	;	The Public Burning 	;	Robert Coover		;	1789
+B32	;	Shroud 	;	John Banville		;	1951
+B320	;	Interview With the Vampire 	;	Anne Rice		;	1768
+B321	;	Cutter and Bone 	;	Newton Thornburg		;	1762
+B322	;	Amateurs 	;	Donald Barthelme		;	1810
+B323	;	Patterns of Childhood 	;	Christa Wolf		;	1737
+B324	;	Autumn of the Patriarch 	;	Gabriel García Márquez		;	1732
+B325	;	W, or the Memory of Childhood 	;	Georges Perec		;	1812
+B326	;	A Dance to the Music of Time 	;	Anthony Powell		;	1892
+B327	;	Grimus 	;	Salman Rushdie		;	1786
+B328	;	The Dead Father 	;	Donald Barthelme		;	1857
+B329	;	Fateless 	;	Imre Kertész		;	1894
+B33	;	Middlesex 	;	Jeffrey Eugenides		;	1831
+B330	;	Willard and His Bowling Trophies 	;	Richard Brautigan		;	1875
+B331	;	High Rise 	;	J.G. Ballard		;	1826
+B332	;	Humboldt’s Gift 	;	Saul Bellow		;	1706
+B333	;	Dead Babies 	;	Martin Amis		;	1908
+B334	;	Correction 	;	Thomas Bernhard		;	1843
+B335	;	Ragtime 	;	E.L. Doctorow		;	1949
+B336	;	The Fan Man 	;	William Kotzwinkle		;	1946
+B337	;	Dusklands 	;	J.M. Coetzee		;	1973
+B338	;	The Lost Honor of Katharina Blum 	;	Heinrich Böll		;	1823
+B339	;	Tinker Tailor Soldier Spy 	;	John Le Carré		;	1763
+B34	;	Youth 	;	J.M. Coetzee		;	1814
+B340	;	Breakfast of Champions 	;	Kurt Vonnegut, Jr.		;	1748
+B341	;	Fear of Flying 	;	Erica Jong		;	1818
+B342	;	A Question of Power 	;	Bessie Head		;	1948
+B343	;	The Siege of Krishnapur 	;	J.G. Farrell		;	1713
+B344	;	The Castle of Crossed Destinies 	;	Italo Calvino		;	1792
+B345	;	Crash 	;	J.G. Ballard		;	1771
+B346	;	The Honorary Consul 	;	Graham Greene		;	1898
+B347	;	Gravity’s Rainbow 	;	Thomas Pynchon		;	1863
+B348	;	The Black Prince 	;	Iris Murdoch		;	1977
+B349	;	Sula 	;	Toni Morrison		;	1735
+B35	;	Dead Air 	;	Iain Banks		;	1819
+B350	;	Invisible Cities 	;	Italo Calvino		;	1782
+B351	;	The Breast 	;	Philip Roth		;	1787
+B352	;	The Summer Book 	;	Tove Jansson		;	1827
+B353	;	G 	;	John Berger		;	1873
+B354	;	Surfacing 	;	Margaret Atwood		;	1950
+B355	;	House Mother Normal 	;	B.S. Johnson		;	1877
+B356	;	In A Free State 	;	V.S. Naipaul		;	1711
+B357	;	The Book of Daniel 	;	E.L. Doctorow		;	1817
+B358	;	Fear and Loathing in Las Vegas 	;	Hunter S. Thompson		;	1967
+B359	;	Group Portrait With Lady 	;	Heinrich Böll		;	1900
+B36	;	Nowhere Man 	;	Aleksandar Hemon		;	1991
+B360	;	The Wild Boys 	;	William Burroughs		;	1749
+B361	;	Rabbit Redux 	;	John Updike		;	1722
+B362	;	The Sea of Fertility 	;	Yukio Mishima		;	1836
+B363	;	The Driver’s Seat 	;	Muriel Spark		;	1992
+B364	;	The Ogre 	;	Michael Tournier		;	1840
+B365	;	The Bluest Eye 	;	Toni Morrison		;	1790
+B366	;	Goalie’s Anxiety at the Penalty Kick 	;	Peter Handke		;	1742
+B367	;	I Know Why the Caged Bird Sings 	;	Maya Angelou		;	1807
+B368	;	Mercier et Camier 	;	Samuel Beckett		;	1995
+B369	;	Troubles 	;	J.G. Farrell		;	2009
+B37	;	The Book of Illusions 	;	Paul Auster		;	1878
+B370	;	Jahrestage 	;	Uwe Johnson		;	1885
+B371	;	The Atrocity Exhibition 	;	J.G. Ballard		;	1838
+B372	;	Tent of Miracles 	;	Jorge Amado		;	1862
+B373	;	Pricksongs and Descants 	;	Robert Coover		;	1930
+B374	;	Blind Man With a Pistol 	;	Chester Hines		;	1917
+B375	;	Slaughterhouse-five 	;	Kurt Vonnegut, Jr.		;	1783
+B376	;	The French Lieutenant’s Woman 	;	John Fowles		;	1800
+B377	;	The Green Man 	;	Kingsley Amis		;	1861
+B378	;	Portnoy’s Complaint 	;	Philip Roth		;	1864
+B379	;	The Godfather 	;	Mario Puzo		;	1870
+B38	;	Gabriel’s Gift 	;	Hanif Kureishi		;	1886
+B380	;	Ada 	;	Vladimir Nabokov		;	1850
+B381	;	Them 	;	Joyce Carol Oates		;	1820
+B382	;	A Void/Avoid 	;	Georges Perec		;	1870
+B383	;	Eva Trout 	;	Elizabeth Bowen		;	1988
+B384	;	Myra Breckinridge 	;	Gore Vidal		;	1908
+B385	;	The Nice and the Good 	;	Iris Murdoch		;	1910
+B386	;	Belle du Seigneur 	;	Albert Cohen		;	1905
+B387	;	Cancer Ward 	;	Aleksandr Isayevich Solzhenitsyn		;	1735
+B388	;	The First Circle 	;	Aleksandr Isayevich Solzhenitsyn		;	1956
+B389	;	2001: A Space Odyssey 	;	Arthur C. Clarke		;	1748
+B39	;	Austerlitz 	;	W.G. Sebald		;	1700
+B390	;	Do Androids Dream of Electric Sheep? 	;	Philip K. Dick		;	1718
+B391	;	Dark as the Grave Wherein My Friend is Laid 	;	Malcolm Lowry		;	1942
+B392	;	The German Lesson 	;	Siegfried Lenz		;	1821
+B393	;	In Watermelon Sugar 	;	Richard Brautigan		;	1715
+B394	;	A Kestrel for a Knave 	;	Barry Hines		;	1887
+B395	;	The Quest for Christa T. 	;	Christa Wolf		;	1896
+B396	;	Chocky 	;	John Wyndham		;	1745
+B397	;	The Electric Kool-Aid Acid Test 	;	Tom Wolfe		;	1830
+B398	;	The Cubs and Other Stories 	;	Mario Vargas Llosa		;	1800
+B4	;	Slow Man 	;	J.M. Coetzee		;	1788
+B40	;	Platform 	;	Michael Houellebecq		;	1750
+B400	;	The Master and Margarita 	;	Mikhail Bulgakov		;	2005
+B401	;	Pilgrimage 	;	Dorothy Richardson		;	1844
+B402	;	The Joke 	;	Milan Kundera		;	1997
+B403	;	No Laughing Matter 	;	Angus Wilson		;	1898
+B404	;	The Third Policeman 	;	Flann O’Brien		;	1914
+B405	;	A Man Asleep 	;	Georges Perec		;	1981
+B406	;	The Birds Fall Down 	;	Rebecca West		;	1916
+B407	;	Trawl 	;	B.S. Johnson		;	1768
+B408	;	In Cold Blood 	;	Truman Capote		;	1738
+B409	;	The Magus 	;	John Fowles		;	1810
+B41	;	Schooling 	;	Heather McGowan		;	1949
+B410	;	The Vice-Consul 	;	Marguerite Duras		;	1914
+B411	;	Wide Sargasso Sea 	;	Jean Rhys		;	1829
+B412	;	Giles Goat-Boy 	;	John Barth		;	1947
+B413	;	The Crying of Lot 49 	;	Thomas Pynchon		;	1783
+B414	;	Things 	;	Georges Perec		;	1798
+B415	;	The River Between 	;	Ngugi wa Thiong’o		;	1763
+B416	;	August is a Wicked Month 	;	Edna O’Brien		;	1784
+B417	;	God Bless You, Mr. Rosewater 	;	Kurt Vonnegut		;	1886
+B418	;	Everything That Rises Must Converge 	;	Flannery O’Connor		;	1841
+B419	;	The Passion According to G.H. 	;	Clarice Lispector		;	1982
+B42	;	Atonement 	;	Ian McEwan		;	1917
+B420	;	Sometimes a Great Notion 	;	Ken Kesey		;	1862
+B421	;	Come Back, Dr. Caligari 	;	Donald Bartholme		;	1789
+B422	;	Albert Angelo 	;	B.S. Johnson		;	1871
+B423	;	Arrow of God 	;	Chinua Achebe		;	1920
+B424	;	The Ravishing of Lol V. Stein 	;	Marguerite Duras		;	1747
+B425	;	Herzog 	;	Saul Bellow		;	1725
+B426	;	V. 	;	Thomas Pynchon		;	1720
+B427	;	Cat’s Cradle 	;	Kurt Vonnegut		;	1928
+B428	;	The Graduate 	;	Charles Webb		;	1867
+B429	;	Manon des Sources 	;	Marcel Pagnol		;	1842
+B43	;	The Corrections 	;	Jonathan Franzen		;	1815
+B430	;	The Spy Who Came in from the Cold 	;	John Le Carré		;	1766
+B431	;	The Girls of Slender Means 	;	Muriel Spark		;	1907
+B432	;	Inside Mr. Enderby 	;	Anthony Burgess		;	1816
+B433	;	The Bell Jar 	;	Sylvia Plath		;	1745
+B434	;	One Day in the Life of Ivan Denisovich 	;	Aleksandr Isayevich Solzhenitsyn		;	1781
+B435	;	The Collector 	;	John Fowles		;	1717
+B436	;	One Flew Over the Cuckoo’s Nest 	;	Ken Kesey		;	1803
+B437	;	A Clockwork Orange 	;	Anthony Burgess		;	1960
+B438	;	Pale Fire 	;	Vladimir Nabokov		;	1820
+B439	;	The Drowned World 	;	J.G. Ballard		;	1742
+B44	;	Don’t Move 	;	Margaret Mazzantini		;	1836
+B440	;	The Golden Notebook 	;	Doris Lessing		;	1714
+B441	;	Labyrinths 	;	Jorg Luis Borges		;	1985
+B442	;	Girl With Green Eyes 	;	Edna O’Brien		;	2002
+B443	;	The Garden of the Finzi-Continis 	;	Giorgio Bassani		;	1706
+B444	;	Stranger in a Strange Land 	;	Robert Heinlein		;	1811
+B445	;	Franny and Zooey 	;	J.D. Salinger		;	1881
+B446	;	A Severed Head 	;	Iris Murdoch		;	1931
+B447	;	Faces in the Water 	;	Janet Frame		;	1994
+B448	;	Solaris 	;	Stanislaw Lem		;	1960
+B449	;	Cat and Mouse 	;	Günter Grass		;	1999
+B45	;	The Body Artist 	;	Don DeLillo		;	1864
+B450	;	The Prime of Miss Jean Brodie 	;	Muriel Spark		;	1721
+B451	;	Catch-22 	;	Joseph Heller		;	1940
+B452	;	The Violent Bear it Away 	;	Flannery O’Connor		;	1730
+B453	;	How It Is 	;	Samuel Beckett		;	1703
+B454	;	Our Ancestors 	;	Italo Calvino		;	1795
+B455	;	The Country Girls 	;	Edna O’Brien		;	1744
+B456	;	To Kill a Mockingbird 	;	Harper Lee		;	1872
+B457	;	Rabbit, Run 	;	John Updike		;	1800
+B458	;	Promise at Dawn 	;	Romain Gary		;	1766
+B459	;	Cider With Rosie 	;	Laurie Lee		;	1891
+B46	;	Fury 	;	Salman Rushdie		;	1998
+B460	;	Billy Liar 	;	Keith Waterhouse		;	1993
+B461	;	Naked Lunch 	;	William Burroughs		;	1986
+B462	;	The Tin Drum 	;	Günter Grass		;	1940
+B463	;	Absolute Beginners 	;	Colin MacInnes		;	2003
+B464	;	Henderson the Rain King 	;	Saul Bellow		;	1785
+B465	;	Memento Mori 	;	Muriel Spark		;	1775
+B466	;	Billiards at Half-Past Nine 	;	Heinrich Böll		;	1990
+B467	;	Breakfast at Tiffany’s 	;	Truman Capote		;	1826
+B468	;	The Leopard 	;	Giuseppe Tomasi di Lampedusa		;	1888
+B469	;	Pluck the Bud and Destroy the Offspring 	;	Kenzaburo Oe		;	1858
+B47	;	At Swim, Two Boys 	;	Jamie O’Neill		;	1755
+B470	;	A Town Like Alice 	;	Nevil Shute		;	1832
+B471	;	The Bitter Glass 	;	Eilís Dillon		;	1817
+B472	;	Things Fall Apart 	;	Chinua Achebe		;	1994
+B473	;	Saturday Night and Sunday Morning 	;	Alan Sillitoe		;	1832
+B474	;	Mrs. ‘Arris Goes to Paris 	;	Paul Gallico		;	1899
+B475	;	Borstal Boy 	;	Brendan Behan		;	1808
+B476	;	The End of the Road 	;	John Barth		;	1737
+B477	;	The Once and Future King 	;	T.H. White		;	1701
+B478	;	The Bell 	;	Iris Murdoch		;	1801
+B479	;	Jealousy 	;	Alain Robbe-Grillet		;	1789
+B48	;	Choke 	;	Chuck Palahniuk		;	1897
+B480	;	Voss 	;	Patrick White		;	1953
+B481	;	The Midwich Cuckoos 	;	John Wyndham		;	1864
+B482	;	Blue Noon 	;	Georges Bataille		;	1781
+B483	;	Homo Faber 	;	Max Frisch		;	1955
+B484	;	On the Road 	;	Jack Kerouac		;	1736
+B485	;	Pnin 	;	Vladimir Nabokov		;	1937
+B486	;	Doctor Zhivago 	;	Boris Pasternak		;	1958
+B487	;	The Wonderful “O” 	;	James Thurber		;	1710
+B488	;	Justine 	;	Lawrence Durrell		;	1716
+B489	;	Giovanni’s Room 	;	James Baldwin		;	1894
+B49	;	Life of Pi 	;	Yann Martel		;	1873
+B490	;	The Lonely Londoners 	;	Sam Selvon		;	1774
+B491	;	The Roots of Heaven 	;	Romain Gary		;	1872
+B492	;	Seize the Day 	;	Saul Bellow		;	1912
+B493	;	The Floating Opera 	;	John Barth		;	1962
+B494	;	The Lord of the Rings 	;	J.R.R. Tolkien		;	1850
+B495	;	The Talented Mr. Ripley 	;	Patricia Highsmith		;	1798
+B496	;	Lolita 	;	Vladimir Nabokov		;	1920
+B497	;	A World of Love 	;	Elizabeth Bowen		;	1996
+B498	;	The Trusting and the Maimed 	;	James Plunkett		;	1800
+B499	;	The Quiet American 	;	Graham Greene		;	1826
+B5	;	Adjunct: An Undigest 	;	Peter Manson		;	1947
+B50	;	The Feast of the Goat 	;	Mario Vargos Llosa		;	2006
+B500	;	The Last Temptation of Christ 	;	Nikos Kazantzákis		;	1700
+B501	;	The Recognitions 	;	William Gaddis		;	1723
+B502	;	The Ragazzi 	;	Pier Paulo Pasolini		;	1786
+B503	;	Bonjour Tristesse 	;	Françoise Sagan		;	1741
+B504	;	I’m Not Stiller 	;	Max Frisch		;	1977
+B505	;	Self Condemned 	;	Wyndham Lewis		;	1899
+B506	;	The Story of O 	;	Pauline Réage		;	1743
+B507	;	A Ghost at Noon 	;	Alberto Moravia		;	1842
+B508	;	Lord of the Flies 	;	William Golding		;	2000
+B509	;	Under the Net 	;	Iris Murdoch		;	1742
+B51	;	An Obedient Father 	;	Akhil Sharma		;	1841
+B510	;	The Go-Between 	;	L.P. Hartley		;	1957
+B511	;	The Long Goodbye 	;	Raymond Chandler		;	1801
+B512	;	The Unnamable 	;	Samuel Beckett		;	1711
+B513	;	Watt 	;	Samuel Beckett		;	2009
+B514	;	Lucky Jim 	;	Kingsley Amis		;	2008
+B515	;	Junkie 	;	William Burroughs		;	1754
+B516	;	The Adventures of Augie March 	;	Saul Bellow		;	1833
+B517	;	Go Tell It on the Mountain 	;	James Baldwin		;	1723
+B518	;	Casino Royale 	;	Ian Fleming		;	1726
+B519	;	The Judge and His Hangman 	;	Friedrich Dürrenmatt		;	1903
+B52	;	The Devil and Miss Prym 	;	Paulo Coelho		;	1732
+B520	;	Invisible Man 	;	Ralph Ellison		;	1743
+B521	;	The Old Man and the Sea 	;	Ernest Hemingway		;	1814
+B522	;	Wise Blood 	;	Flannery O’Connor		;	1806
+B523	;	The Killer Inside Me 	;	Jim Thompson		;	1812
+B524	;	Memoirs of Hadrian 	;	Marguerite Yourcenar		;	1721
+B525	;	Malone Dies 	;	Samuel Beckett		;	1720
+B526	;	Day of the Triffids 	;	John Wyndham		;	1733
+B527	;	Foundation 	;	Isaac Asimov		;	1778
+B528	;	The Opposing Shore 	;	Julien Gracq		;	1774
+B529	;	The Catcher in the Rye 	;	J.D. Salinger		;	1792
+B53	;	Spring Flowers, Spring Frost 	;	Ismail Kadare		;	1771
+B530	;	The Rebel 	;	Albert Camus		;	1715
+B531	;	Molloy 	;	Samuel Beckett		;	1773
+B532	;	The End of the Affair 	;	Graham Greene		;	1796
+B533	;	The Abbot C 	;	Georges Bataille		;	1795
+B534	;	The Labyrinth of Solitude 	;	Octavio Paz		;	1729
+B535	;	The Third Man 	;	Graham Greene		;	1776
+B536	;	The 13 Clocks 	;	James Thurber		;	1814
+B537	;	Gormenghast 	;	Mervyn Peake		;	1754
+B538	;	The Grass is Singing 	;	Doris Lessing		;	1812
+B539	;	I, Robot 	;	Isaac Asimov		;	1723
+B54	;	White Teeth 	;	Zadie Smith		;	1925
+B540	;	The Moon and the Bonfires 	;	Cesare Pavese		;	1739
+B541	;	The Garden Where the Brass Band Played 	;	Simon Vestdijk		;	1875
+B542	;	Love in a Cold Climate 	;	Nancy Mitford		;	1829
+B543	;	The Case of Comrade Tulayev 	;	Victor Serge		;	1898
+B544	;	The Heat of the Day 	;	Elizabeth Bowen		;	1874
+B545	;	Kingdom of This World 	;	Alejo Carpentier		;	1879
+B546	;	The Man With the Golden Arm 	;	Nelson Algren		;	1769
+B547	;	Nineteen Eighty-Four 	;	George Orwell		;	1707
+B548	;	All About H. Hatterr 	;	G.V. Desani		;	1793
+B549	;	Disobedience 	;	Alberto Moravia		;	1883
+B55	;	The Heart of Redness 	;	Zakes Mda		;	1874
+B550	;	Death Sentence 	;	Maurice Blanchot		;	1853
+B551	;	The Heart of the Matter 	;	Graham Greene		;	1988
+B552	;	Cry, the Beloved Country 	;	Alan Paton		;	1864
+B553	;	Doctor Faustus 	;	Thomas Mann		;	1848
+B554	;	The Victim 	;	Saul Bellow		;	1979
+B555	;	Exercises in Style 	;	Raymond Queneau		;	1748
+B556	;	If This Is a Man 	;	Primo Levi		;	1984
+B557	;	Under the Volcano 	;	Malcolm Lowry		;	1939
+B558	;	The Path to the Nest of Spiders 	;	Italo Calvino		;	1816
+B559	;	The Plague 	;	Albert Camus		;	1774
+B56	;	Under the Skin 	;	Michel Faber		;	1976
+B560	;	Back 	;	Henry Green		;	1925
+B561	;	Titus Groan 	;	Mervyn Peake		;	1850
+B562	;	The Bridge on the Drina 	;	Ivo Andri?		;	1996
+B563	;	Brideshead Revisited 	;	Evelyn Waugh		;	1713
+B564	;	Animal Farm 	;	George Orwell		;	2012
+B565	;	Cannery Row 	;	John Steinbeck		;	1964
+B566	;	The Pursuit of Love 	;	Nancy Mitford		;	1875
+B567	;	Loving 	;	Henry Green		;	1967
+B568	;	Arcanum 17 	;	André Breton		;	1989
+B569	;	Christ Stopped at Eboli 	;	Carlo Levi		;	1917
+B57	;	Ignorance 	;	Milan Kundera		;	2007
+B570	;	The Razor’s Edge 	;	William Somerset Maugham		;	1967
+B571	;	Transit 	;	Anna Seghers		;	1963
+B572	;	Ficciones 	;	Jorge Luis Borges		;	1875
+B573	;	Dangling Man 	;	Saul Bellow		;	1780
+B574	;	The Little Prince 	;	Antoine de Saint-Exupéry		;	1714
+B575	;	Caught 	;	Henry Green		;	1822
+B576	;	The Glass Bead Game 	;	Herman Hesse		;	1786
+B577	;	Embers 	;	Sandor Marai		;	1916
+B578	;	Go Down, Moses 	;	William Faulkner		;	1925
+B579	;	The Outsider 	;	Albert Camus		;	1905
+B58	;	Nineteen Seventy Seven 	;	David Peace		;	1934
+B580	;	In Sicily 	;	Elio Vittorini		;	1800
+B581	;	The Poor Mouth 	;	Flann O’Brien		;	1916
+B582	;	The Living and the Dead 	;	Patrick White		;	1798
+B583	;	Hangover Square 	;	Patrick Hamilton		;	1984
+B584	;	Between the Acts 	;	Virginia Woolf		;	1740
+B585	;	The Hamlet 	;	William Faulkner		;	1752
+B586	;	Farewell My Lovely 	;	Raymond Chandler		;	1764
+B587	;	For Whom the Bell Tolls 	;	Ernest Hemingway		;	1964
+B588	;	Native Son 	;	Richard Wright		;	1942
+B589	;	The Power and the Glory 	;	Graham Greene		;	1957
+B59	;	Celestial Harmonies 	;	Péter Esterházy		;	1882
+B590	;	The Tartar Steppe 	;	Dino Buzzati		;	1841
+B591	;	Party Going 	;	Henry Green		;	1703
+B592	;	The Grapes of Wrath 	;	John Steinbeck		;	1924
+B593	;	Finnegans Wake 	;	James Joyce		;	1887
+B594	;	At Swim-Two-Birds 	;	Flann O’Brien		;	1823
+B595	;	Coming Up for Air 	;	George Orwell		;	1898
+B596	;	Goodbye to Berlin 	;	Christopher Isherwood		;	1706
+B597	;	Tropic of Capricorn 	;	Henry Miller		;	1906
+B598	;	Good Morning, Midnight 	;	Jean Rhys		;	1805
+B599	;	The Big Sleep 	;	Raymond Chandler		;	1859
+B6	;	The Sea 	;	John Banville		;	1988
+B60	;	City of God 	;	E.L. Doctorow		;	1733
+B600	;	After the Death of Don Juan 	;	Sylvie Townsend Warner		;	1852
+B601	;	Miss Pettigrew Lives for a Day 	;	Winifred Watson		;	1908
+B602	;	Nausea 	;	Jean-Paul Sartre		;	1910
+B603	;	Rebecca 	;	Daphne du Maurier		;	1822
+B604	;	Cause for Alarm 	;	Eric Ambler		;	1890
+B605	;	Brighton Rock 	;	Graham Greene		;	2009
+B606	;	U.S.A. 	;	John Dos Passos		;	1719
+B607	;	Murphy 	;	Samuel Beckett		;	1718
+B608	;	Of Mice and Men 	;	John Steinbeck		;	1869
+B609	;	Their Eyes Were Watching God 	;	Zora Neale Hurston		;	1865
+B61	;	How the Dead Live 	;	Will Self		;	1961
+B610	;	The Hobbit 	;	J.R.R. Tolkien		;	1761
+B611	;	The Years 	;	Virginia Woolf		;	1884
+B612	;	In Parenthesis 	;	David Jones		;	1770
+B613	;	The Revenge for Love 	;	Wyndham Lewis		;	1890
+B614	;	Out of Africa 	;	Isak Dineson (Karen Blixen)		;	1965
+B615	;	To Have and Have Not 	;	Ernest Hemingway		;	1998
+B616	;	Summer Will Show 	;	Sylvia Townsend Warner		;	2011
+B617	;	Eyeless in Gaza 	;	Aldous Huxley		;	1854
+B618	;	The Thinking Reed 	;	Rebecca West		;	1792
+B619	;	Gone With the Wind 	;	Margaret Mitchell		;	1897
+B62	;	The Human Stain 	;	Philip Roth		;	1932
+B620	;	Keep the Aspidistra Flying 	;	George Orwell		;	1853
+B621	;	Wild Harbour 	;	Ian MacPherson		;	1731
+B622	;	Absalom, Absalom! 	;	William Faulkner		;	1806
+B623	;	At the Mountains of Madness 	;	H.P. Lovecraft		;	1730
+B624	;	Nightwood 	;	Djuna Barnes		;	1926
+B625	;	Independent People 	;	Halldór Laxness		;	1955
+B626	;	Auto-da-Fé 	;	Elias Canetti		;	1767
+B627	;	The Last of Mr. Norris 	;	Christopher Isherwood		;	1814
+B628	;	They Shoot Horses, Don’t They? 	;	Horace McCoy		;	1870
+B629	;	The House in Paris 	;	Elizabeth Bowen		;	2008
+B63	;	The Blind Assassin 	;	Margaret Atwood		;	1772
+B630	;	England Made Me 	;	Graham Greene		;	1896
+B631	;	Burmese Days 	;	George Orwell		;	1763
+B632	;	The Nine Tailors 	;	Dorothy L. Sayers		;	1706
+B633	;	Threepenny Novel 	;	Bertolt Brecht		;	1808
+B634	;	Novel With Cocaine 	;	M. Ageyev		;	1928
+B635	;	The Postman Always Rings Twice 	;	James M. Cain		;	1962
+B636	;	Tropic of Cancer 	;	Henry Miller		;	1824
+B637	;	A Handful of Dust 	;	Evelyn Waugh		;	1712
+B638	;	Tender is the Night 	;	F. Scott Fitzgerald		;	1894
+B639	;	Thank You, Jeeves 	;	P.G. Wodehouse		;	1714
+B64	;	After the Quake 	;	Haruki Murakami		;	1899
+B640	;	Call it Sleep 	;	Henry Roth		;	1987
+B641	;	Miss Lonelyhearts 	;	Nathanael West		;	1893
+B642	;	Murder Must Advertise 	;	Dorothy L. Sayers		;	1963
+B643	;	The Autobiography of Alice B. Toklas 	;	Gertrude Stein		;	1762
+B644	;	Testament of Youth 	;	Vera Brittain		;	2009
+B645	;	A Day Off 	;	Storm Jameson		;	1989
+B646	;	The Man Without Qualities 	;	Robert Musil		;	1862
+B647	;	A Scots Quair (Sunset Song) 	;	Lewis Grassic Gibbon		;	1757
+B648	;	Journey to the End of the Night 	;	Louis-Ferdinand Céline		;	1899
+B649	;	Brave New World 	;	Aldous Huxley		;	1991
+B65	;	Small Remedies 	;	Shashi Deshpande		;	1805
+B650	;	Cold Comfort Farm 	;	Stella Gibbons		;	1818
+B651	;	To the North 	;	Elizabeth Bowen		;	1763
+B652	;	The Thin Man 	;	Dashiell Hammett		;	1952
+B653	;	The Radetzky March 	;	Joseph Roth		;	1734
+B654	;	The Waves 	;	Virginia Woolf		;	1840
+B655	;	The Glass Key 	;	Dashiell Hammett		;	1945
+B656	;	Cakes and Ale 	;	W. Somerset Maugham		;	1799
+B657	;	The Apes of God 	;	Wyndham Lewis		;	1819
+B658	;	Her Privates We 	;	Frederic Manning		;	1799
+B659	;	Vile Bodies 	;	Evelyn Waugh		;	1875
+B66	;	Super-Cannes 	;	J.G. Ballard		;	1934
+B660	;	The Maltese Falcon 	;	Dashiell Hammett		;	1720
+B661	;	Hebdomeros 	;	Giorgio de Chirico		;	1964
+B662	;	Passing 	;	Nella Larsen		;	1990
+B663	;	A Farewell to Arms 	;	Ernest Hemingway		;	1867
+B664	;	Red Harvest 	;	Dashiell Hammett		;	1722
+B665	;	Living 	;	Henry Green		;	1766
+B666	;	The Time of Indifference 	;	Alberto Moravia		;	1926
+B667	;	All Quiet on the Western Front 	;	Erich Maria Remarque		;	1700
+B668	;	Berlin Alexanderplatz 	;	Alfred Döblin		;	1942
+B669	;	The Last September 	;	Elizabeth Bowen		;	1826
+B67	;	House of Leaves 	;	Mark Z. Danielewski		;	1723
+B670	;	Harriet Hume 	;	Rebecca West		;	1766
+B671	;	The Sound and the Fury 	;	William Faulkner		;	1806
+B672	;	Les Enfants Terribles 	;	Jean Cocteau		;	1960
+B673	;	Look Homeward, Angel 	;	Thomas Wolfe		;	1763
+B674	;	Story of the Eye 	;	Georges Bataille		;	1797
+B675	;	Orlando 	;	Virginia Woolf		;	1864
+B676	;	Lady Chatterley’s Lover 	;	D.H. Lawrence		;	1722
+B677	;	The Well of Loneliness 	;	Radclyffe Hall		;	1819
+B678	;	The Childermass 	;	Wyndham Lewis		;	1840
+B679	;	Quartet 	;	Jean Rhys		;	1849
+B68	;	Blonde 	;	Joyce Carol Oates		;	1931
+B680	;	Decline and Fall 	;	Evelyn Waugh		;	1780
+B681	;	Quicksand 	;	Nella Larsen		;	1944
+B682	;	Parade’s End 	;	Ford Madox Ford		;	1874
+B683	;	Nadja 	;	André Breton		;	1780
+B684	;	Steppenwolf 	;	Herman Hesse		;	1801
+B685	;	Remembrance of Things Past 	;	Marcel Proust		;	1881
+B686	;	To The Lighthouse 	;	Virginia Woolf		;	1720
+B687	;	Tarka the Otter 	;	Henry Williamson		;	1806
+B688	;	Amerika 	;	Franz Kafka		;	1881
+B689	;	The Sun Also Rises 	;	Ernest Hemingway		;	1934
+B69	;	Pastoralia 	;	George Saunders		;	1754
+B690	;	Blindness 	;	Henry Green		;	1761
+B691	;	The Castle 	;	Franz Kafka		;	1919
+B692	;	The Good Soldier Švejk 	;	Jaroslav Hašek		;	1769
+B693	;	The Plumed Serpent 	;	D.H. Lawrence		;	1890
+B694	;	One, None and a Hundred Thousand 	;	Luigi Pirandello		;	1809
+B695	;	The Murder of Roger Ackroyd 	;	Agatha Christie		;	1932
+B696	;	The Making of Americans 	;	Gertrude Stein		;	1960
+B697	;	Manhattan Transfer 	;	John Dos Passos		;	1864
+B698	;	Mrs. Dalloway 	;	Virginia Woolf		;	1976
+B699	;	The Great Gatsby 	;	F. Scott Fitzgerald		;	1983
+B7	;	The Red Queen 	;	Margaret Drabble		;	1883
+B70	;	Timbuktu 	;	Paul Auster		;	1807
+B700	;	The Counterfeiters 	;	André Gide		;	1774
+B701	;	The Trial 	;	Franz Kafka		;	1789
+B702	;	The Artamonov Business 	;	Maxim Gorky		;	1829
+B703	;	The Professor’s House 	;	Willa Cather		;	1729
+B704	;	Billy Budd, Foretopman 	;	Herman Melville		;	1744
+B705	;	The Green Hat 	;	Michael Arlen		;	1995
+B706	;	The Magic Mountain 	;	Thomas Mann		;	1915
+B707	;	We 	;	Yevgeny Zamyatin		;	1867
+B708	;	A Passage to India 	;	E.M. Forster		;	1800
+B709	;	The Devil in the Flesh 	;	Raymond Radiguet		;	1868
+B71	;	The Romantics 	;	Pankaj Mishra		;	1755
+B710	;	Zeno’s Conscience 	;	Italo Svevo		;	1879
+B711	;	Cane 	;	Jean Toomer		;	1985
+B712	;	Antic Hay 	;	Aldous Huxley		;	1725
+B713	;	Amok 	;	Stefan Zweig		;	1931
+B714	;	The Garden Party 	;	Katherine Mansfield		;	1800
+B715	;	The Enormous Room 	;	E.E. Cummings		;	2005
+B716	;	Jacob’s Room 	;	Virginia Woolf		;	1871
+B717	;	Siddhartha 	;	Herman Hesse		;	1948
+B718	;	The Glimpses of the Moon 	;	Edith Wharton		;	1796
+B719	;	Life and Death of Harriett Frean 	;	May Sinclair		;	1826
+B72	;	Cryptonomicon 	;	Neal Stephenson		;	1827
+B720	;	The Last Days of Humanity 	;	Karl Kraus		;	1876
+B721	;	Aaron’s Rod 	;	D.H. Lawrence		;	1717
+B722	;	Babbitt 	;	Sinclair Lewis		;	1992
+B723	;	Ulysses 	;	James Joyce		;	1923
+B724	;	The Fox 	;	D.H. Lawrence		;	1747
+B725	;	Crome Yellow 	;	Aldous Huxley		;	1825
+B726	;	The Age of Innocence 	;	Edith Wharton		;	1779
+B727	;	Main Street 	;	Sinclair Lewis		;	1908
+B728	;	Women in Love 	;	D.H. Lawrence		;	1709
+B729	;	Night and Day 	;	Virginia Woolf		;	1830
+B73	;	As If I Am Not There 	;	Slavenka Drakuli?		;	2005
+B730	;	Tarr 	;	Wyndham Lewis		;	1853
+B731	;	The Return of the Soldier 	;	Rebecca West		;	1777
+B732	;	The Shadow Line 	;	Joseph Conrad		;	1886
+B733	;	Summer 	;	Edith Wharton		;	1755
+B734	;	Growth of the Soil 	;	Knut Hamsen		;	1920
+B735	;	Bunner Sisters 	;	Edith Wharton		;	1750
+B736	;	A Portrait of the Artist as a Young Man 	;	James Joyce		;	1847
+B737	;	Under Fire 	;	Henri Barbusse		;	1707
+B738	;	Rashomon 	;	Akutagawa Ryunosuke		;	1746
+B739	;	The Good Soldier 	;	Ford Madox Ford		;	1803
+B74	;	Everything You Need 	;	A.L. Kennedy		;	1770
+B740	;	The Voyage Out 	;	Virginia Woolf		;	1917
+B741	;	Of Human Bondage 	;	William Somerset Maugham		;	1794
+B742	;	The Rainbow 	;	D.H. Lawrence		;	1719
+B743	;	The Thirty-Nine Steps 	;	John Buchan		;	1979
+B744	;	Kokoro 	;	Natsume Soseki		;	1719
+B745	;	Locus Solus 	;	Raymond Roussel		;	1788
+B746	;	Rosshalde 	;	Herman Hesse		;	1844
+B747	;	Tarzan of the Apes 	;	Edgar Rice Burroughs		;	2007
+B748	;	The Ragged Trousered Philanthropists 	;	Robert Tressell		;	2003
+B749	;	Sons and Lovers 	;	D.H. Lawrence		;	1817
+B75	;	Fear and Trembling 	;	Amélie Nothomb		;	2012
+B750	;	Death in Venice 	;	Thomas Mann		;	1902
+B751	;	The Charwoman’s Daughter 	;	James Stephens		;	1763
+B752	;	Ethan Frome 	;	Edith Wharton		;	1953
+B753	;	Fantômas 	;	Marcel Allain and Pierre Souvestre		;	1986
+B754	;	Howards End 	;	E.M. Forster		;	1953
+B755	;	Impressions of Africa 	;	Raymond Roussel		;	1931
+B756	;	Three Lives 	;	Gertrude Stein		;	1854
+B757	;	Martin Eden 	;	Jack London		;	1861
+B758	;	Strait is the Gate 	;	André Gide		;	1925
+B759	;	Tono-Bungay 	;	H.G. Wells		;	1983
+B76	;	The Ground Beneath Her Feet 	;	Salman Rushdie		;	1721
+B760	;	The Inferno 	;	Henri Barbusse		;	1881
+B761	;	A Room With a View 	;	E.M. Forster		;	1761
+B762	;	The Iron Heel 	;	Jack London		;	2001
+B763	;	The Old Wives’ Tale 	;	Arnold Bennett		;	1734
+B764	;	The House on the Borderland 	;	William Hope Hodgson		;	1920
+B765	;	Mother 	;	Maxim Gorky		;	1998
+B766	;	The Secret Agent 	;	Joseph Conrad		;	1915
+B767	;	The Jungle 	;	Upton Sinclair		;	1844
+B768	;	Young Törless 	;	Robert Musil		;	1869
+B769	;	The Forsyte Sage 	;	John Galsworthy		;	1728
+B77	;	Disgrace 	;	J.M. Coetzee		;	1863
+B770	;	The House of Mirth 	;	Edith Wharton		;	1786
+B771	;	Professor Unrat 	;	Heinrich Mann		;	1908
+B772	;	Where Angels Fear to Tread 	;	E.M. Forster		;	1981
+B773	;	Nostromo 	;	Joseph Conrad		;	1878
+B774	;	Hadrian the Seventh 	;	Frederick Rolfe		;	1916
+B775	;	The Golden Bowl 	;	Henry James		;	1905
+B776	;	The Ambassadors 	;	Henry James		;	1924
+B777	;	The Riddle of the Sands 	;	Erskine Childers		;	1833
+B778	;	The Immoralist 	;	André Gide		;	1924
+B779	;	The Wings of the Dove 	;	Henry James		;	1831
+B78	;	Sputnik Sweetheart 	;	Haruki Murakami		;	1815
+B780	;	Heart of Darkness 	;	Joseph Conrad		;	1701
+B781	;	The Hound of the Baskervilles 	;	Sir Arthur Conan Doyle		;	1777
+B782	;	Buddenbrooks 	;	Thomas Mann		;	1882
+B783	;	Kim 	;	Rudyard Kipling		;	1806
+B784	;	Sister Carrie 	;	Theodore Dreiser		;	1931
+B785	;	Lord Jim 	;	Joseph Conrad		;	1863
+B786	;	Some Experiences of an Irish R.M. 	;	Somerville and Ross		;	1777
+B787	;	The Stechlin 	;	Theodore Fontane		;	1720
+B788	;	The Awakening 	;	Kate Chopin		;	1954
+B789	;	The Turn of the Screw 	;	Henry James		;	1939
+B79	;	Elementary Particles 	;	Michel Houellebecq		;	1743
+B790	;	The War of the Worlds 	;	H.G. Wells		;	1969
+B791	;	The Invisible Man 	;	H.G. Wells		;	1894
+B792	;	What Maisie Knew 	;	Henry James		;	1930
+B793	;	Fruits of the Earth 	;	André Gide		;	1940
+B794	;	Dracula 	;	Bram Stoker		;	1908
+B795	;	Quo Vadis 	;	Henryk Sienkiewicz		;	1976
+B796	;	The Island of Dr. Moreau 	;	H.G. Wells		;	1762
+B797	;	The Time Machine 	;	H.G. Wells		;	1792
+B798	;	Effi Briest 	;	Theodore Fontane		;	1731
+B799	;	Jude the Obscure 	;	Thomas Hardy		;	1878
+B8	;	The Plot Against America 	;	Philip Roth		;	1719
+B80	;	Intimacy 	;	Hanif Kureishi		;	1956
+B800	;	The Real Charlotte 	;	Somerville and Ross		;	1929
+B801	;	The Yellow Wallpaper 	;	Charlotte Perkins Gilman		;	1855
+B802	;	Born in Exile 	;	George Gissing		;	1978
+B803	;	Diary of a Nobody 	;	George & Weedon Grossmith		;	1847
+B804	;	The Adventures of Sherlock Holmes 	;	Sir Arthur Conan Doyle		;	1907
+B805	;	News from Nowhere 	;	William Morris		;	1810
+B806	;	New Grub Street 	;	George Gissing		;	1839
+B807	;	Gösta Berling’s Saga 	;	Selma Lagerlöf		;	1732
+B808	;	Tess of the D’Urbervilles 	;	Thomas Hardy		;	1981
+B809	;	The Picture of Dorian Gray 	;	Oscar Wilde		;	1978
+B81	;	Amsterdam 	;	Ian McEwan		;	1950
+B810	;	The Kreutzer Sonata 	;	Leo Tolstoy		;	1721
+B811	;	La Bête Humaine 	;	Émile Zola		;	1812
+B812	;	By the Open Sea 	;	August Strindberg		;	1950
+B813	;	Hunger 	;	Knut Hamsun		;	1859
+B814	;	The Master of Ballantrae 	;	Robert Louis Stevenson		;	1711
+B815	;	Pierre and Jean 	;	Guy de Maupassant		;	1988
+B816	;	Fortunata and Jacinta 	;	Benito Pérez Galdés		;	1767
+B817	;	The People of Hemsö 	;	August Strindberg		;	1936
+B818	;	The Woodlanders 	;	Thomas Hardy		;	1922
+B819	;	She 	;	H. Rider Haggard		;	1745
+B82	;	Cloudsplitter 	;	Russell Banks		;	1821
+B820	;	The Strange Case of Dr. Jekyll and Mr. Hyde 	;	Robert Louis Stevenson		;	1912
+B821	;	The Mayor of Casterbridge 	;	Thomas Hardy		;	1976
+B822	;	Kidnapped 	;	Robert Louis Stevenson		;	2007
+B823	;	King Solomon’s Mines 	;	H. Rider Haggard		;	1718
+B824	;	Germinal 	;	Émile Zola		;	2001
+B825	;	The Adventures of Huckleberry Finn 	;	Mark Twain		;	1933
+B826	;	Bel-Ami 	;	Guy de Maupassant		;	1822
+B827	;	Marius the Epicurean 	;	Walter Pater		;	1715
+B828	;	Against the Grain 	;	Joris-Karl Huysmans		;	1976
+B829	;	The Death of Ivan Ilyich 	;	Leo Tolstoy		;	1866
+B83	;	All Souls Day 	;	Cees Nooteboom		;	1865
+B830	;	A Woman’s Life 	;	Guy de Maupassant		;	1757
+B831	;	Treasure Island 	;	Robert Louis Stevenson		;	1779
+B832	;	The House by the Medlar Tree 	;	Giovanni Verga		;	1861
+B833	;	The Portrait of a Lady 	;	Henry James		;	1727
+B834	;	Bouvard and Pécuchet 	;	Gustave Flaubert		;	1985
+B835	;	Ben-Hur 	;	Lew Wallace		;	1714
+B836	;	Nana 	;	Émile Zola		;	1817
+B837	;	The Brothers Karamazov 	;	Fyodor Dostoevsky		;	1834
+B838	;	The Red Room 	;	August Strindberg		;	1701
+B839	;	Return of the Native 	;	Thomas Hardy		;	1885
+B84	;	The Talk of the Town 	;	Ardal O’Hanlon		;	1840
+B840	;	Anna Karenina 	;	Leo Tolstoy		;	1814
+B841	;	Drunkard 	;	Émile Zola		;	1838
+B842	;	Virgin Soil 	;	Ivan Turgenev		;	1926
+B843	;	Daniel Deronda 	;	George Eliot		;	1834
+B844	;	The Hand of Ethelberta 	;	Thomas Hardy		;	1752
+B845	;	The Temptation of Saint Anthony 	;	Gustave Flaubert		;	1884
+B846	;	Far from the Madding Crowd 	;	Thomas Hardy		;	1803
+B847	;	The Enchanted Wanderer 	;	Nicolai Leskov		;	1929
+B848	;	Around the World in Eighty Days 	;	Jules Verne		;	1711
+B849	;	In a Glass Darkly 	;	Sheridan Le Fanu		;	1855
+B85	;	Tipping the Velvet 	;	Sarah Waters		;	1712
+B850	;	The Devils 	;	Fyodor Dostoevsky		;	1704
+B851	;	Erewhon 	;	Samuel Butler		;	1968
+B852	;	Spring Torrents 	;	Ivan Turgenev		;	1863
+B853	;	Middlemarch 	;	George Eliot		;	1807
+B854	;	Through the Looking Glass, and What Alice Found There 	;	Lewis Carroll		;	1952
+B855	;	King Lear of the Steppes 	;	Ivan Turgenev		;	1912
+B856	;	He Knew He Was Right 	;	Anthony Trollope		;	1732
+B857	;	War and Peace 	;	Leo Tolstoy		;	1815
+B858	;	Sentimental Education 	;	Gustave Flaubert		;	1913
+B859	;	Phineas Finn 	;	Anthony Trollope		;	1800
+B86	;	The Poisonwood Bible 	;	Barbara Kingsolver		;	1961
+B860	;	Maldoror 	;	Comte de Lautréaumont		;	1930
+B861	;	The Idiot 	;	Fyodor Dostoevsky		;	1776
+B862	;	The Moonstone 	;	Wilkie Collins		;	1715
+B863	;	Little Women 	;	Louisa May Alcott		;	1885
+B864	;	Thérèse Raquin 	;	Émile Zola		;	1847
+B865	;	The Last Chronicle of Barset 	;	Anthony Trollope		;	1909
+B866	;	Journey to the Centre of the Earth 	;	Jules Verne		;	1943
+B867	;	Crime and Punishment 	;	Fyodor Dostoevsky		;	1913
+B868	;	Alice’s Adventures in Wonderland 	;	Lewis Carroll		;	1947
+B869	;	Our Mutual Friend 	;	Charles Dickens		;	1804
+B87	;	Glamorama 	;	Bret Easton Ellis		;	1741
+B870	;	Uncle Silas 	;	Sheridan Le Fanu		;	1969
+B871	;	Notes from the Underground 	;	Fyodor Dostoevsky		;	1926
+B872	;	The Water-Babies 	;	Charles Kingsley		;	1762
+B873	;	Les Misérables 	;	Victor Hugo		;	1987
+B874	;	Fathers and Sons 	;	Ivan Turgenev		;	1856
+B875	;	Silas Marner 	;	George Eliot		;	1782
+B876	;	Great Expectations 	;	Charles Dickens		;	1929
+B877	;	On the Eve 	;	Ivan Turgenev		;	1839
+B878	;	Castle Richmond 	;	Anthony Trollope		;	1827
+B879	;	The Mill on the Floss 	;	George Eliot		;	1891
+B88	;	Another World 	;	Pat Barker		;	1869
+B880	;	The Woman in White 	;	Wilkie Collins		;	1900
+B881	;	The Marble Faun 	;	Nathaniel Hawthorne		;	1925
+B882	;	Max Havelaar 	;	Multatuli		;	1898
+B883	;	A Tale of Two Cities 	;	Charles Dickens		;	1821
+B884	;	Oblomovka 	;	Ivan Goncharov		;	1733
+B885	;	Adam Bede 	;	George Eliot		;	1901
+B886	;	Madame Bovary 	;	Gustave Flaubert		;	1705
+B887	;	North and South 	;	Elizabeth Gaskell		;	1878
+B888	;	Hard Times 	;	Charles Dickens		;	1932
+B889	;	Walden 	;	Henry David Thoreau		;	1983
+B89	;	The Hours 	;	Michael Cunningham		;	1886
+B890	;	Bleak House 	;	Charles Dickens		;	1988
+B891	;	Villette 	;	Charlotte Brontë		;	1984
+B892	;	Cranford 	;	Elizabeth Gaskell		;	1983
+B893	;	Uncle Tom’s Cabin	;	Harriet Beecher Stowe		;	2012
+B894	;	The Blithedale Romance 	;	Nathaniel Hawthorne		;	1756
+B895	;	The House of the Seven Gables 	;	Nathaniel Hawthorne		;	1898
+B896	;	Moby-Dick 	;	Herman Melville		;	1889
+B897	;	The Scarlet Letter 	;	Nathaniel Hawthorne		;	1913
+B898	;	David Copperfield 	;	Charles Dickens		;	1804
+B899	;	Shirley 	;	Charlotte Brontë		;	1759
+B9	;	The Master 	;	Colm Tóibín		;	1863
+B90	;	Veronika Decides to Die 	;	Paulo Coelho		;	1915
+B900	;	Mary Barton 	;	Elizabeth Gaskell		;	1713
+B901	;	The Tenant of Wildfell Hall 	;	Anne Brontë		;	1809
+B902	;	Wuthering Heights 	;	Emily Brontë		;	1731
+B903	;	Agnes Grey 	;	Anne Brontë		;	1874
+B904	;	Jane Eyre 	;	Charlotte Brontë		;	1822
+B905	;	Vanity Fair 	;	William Makepeace Thackeray		;	1786
+B906	;	The Count of Monte-Cristo 	;	Alexandre Dumas		;	1924
+B907	;	La Reine Margot 	;	Alexandre Dumas		;	1783
+B908	;	The Three Musketeers 	;	Alexandre Dumas		;	1863
+B909	;	The Purloined Letter 	;	Edgar Allan Poe		;	1954
+B91	;	Mason & Dixon 	;	Thomas Pynchon		;	1932
+B910	;	Martin Chuzzlewit 	;	Charles Dickens		;	1800
+B911	;	The Pit and the Pendulum 	;	Edgar Allan Poe		;	1783
+B912	;	Lost Illusions 	;	Honoré de Balzac		;	1928
+B913	;	A Christmas Carol 	;	Charles Dickens		;	1737
+B914	;	Dead Souls 	;	Nikolay Gogol		;	1997
+B915	;	The Charterhouse of Parma 	;	Stendhal		;	1721
+B916	;	The Fall of the House of Usher 	;	Edgar Allan Poe		;	1986
+B917	;	The Life and Adventures of Nicholas Nickleby 	;	Charles Dickens		;	1867
+B918	;	Oliver Twist 	;	Charles Dickens		;	1929
+B919	;	The Nose 	;	Nikolay Gogol		;	1937
+B92	;	The God of Small Things 	;	Arundhati Roy		;	1969
+B920	;	Le Père Goriot 	;	Honoré de Balzac		;	1782
+B921	;	Eugénie Grandet 	;	Honoré de Balzac		;	1988
+B922	;	The Hunchback of Notre Dame 	;	Victor Hugo		;	1815
+B923	;	The Red and the Black 	;	Stendhal		;	1712
+B924	;	The Betrothed 	;	Alessandro Manzoni		;	1920
+B925	;	Last of the Mohicans 	;	James Fenimore Cooper		;	1872
+B926	;	The Private Memoirs and Confessions of a Justified Sinner 	;	James Hogg		;	1926
+B927	;	The Albigenses 	;	Charles Robert Maturin		;	1763
+B928	;	Melmoth the Wanderer 	;	Charles Robert Maturin		;	1956
+B929	;	The Monastery 	;	Sir Walter Scott		;	1878
+B93	;	Memoirs of a Geisha 	;	Arthur Golden		;	1878
+B930	;	Ivanhoe 	;	Sir Walter Scott		;	1923
+B931	;	Frankenstein 	;	Mary Wollstonecraft Shelley		;	1984
+B932	;	Northanger Abbey 	;	Jane Austen		;	1870
+B933	;	Persuasion 	;	Jane Austen		;	1756
+B934	;	Ormond 	;	Maria Edgeworth		;	1855
+B935	;	Rob Roy 	;	Sir Walter Scott		;	1833
+B936	;	Emma 	;	Jane Austen		;	1700
+B937	;	Mansfield Park 	;	Jane Austen		;	1832
+B938	;	Pride and Prejudice 	;	Jane Austen		;	1941
+B939	;	The Absentee 	;	Maria Edgeworth		;	1834
+B94	;	Great Apes 	;	Will Self		;	1879
+B940	;	Sense and Sensibility 	;	Jane Austen		;	1802
+B941	;	Elective Affinities 	;	Johann Wolfgang von Goethe		;	1761
+B942	;	Castle Rackrent 	;	Maria Edgeworth		;	1721
+B943	;	Hyperion 	;	Friedrich Hölderlin		;	1854
+B944	;	The Nun 	;	Denis Diderot		;	1815
+B945	;	Camilla 	;	Fanny Burney		;	1708
+B946	;	The Monk 	;	M.G. Lewis		;	1751
+B947	;	Wilhelm Meister’s Apprenticeship 	;	Johann Wolfgang von Goethe		;	1933
+B948	;	The Mysteries of Udolpho 	;	Ann Radcliffe		;	1713
+B949	;	The Interesting Narrative 	;	Olaudah Equiano		;	1762
+B95	;	Enduring Love 	;	Ian McEwan		;	1716
+B950	;	The Adventures of Caleb Williams 	;	William Godwin		;	1721
+B951	;	Justine 	;	Marquis de Sade		;	1821
+B952	;	Vathek 	;	William Beckford		;	1798
+B953	;	The 120 Days of Sodom 	;	Marquis de Sade		;	1909
+B954	;	Cecilia 	;	Fanny Burney		;	1995
+B955	;	Confessions 	;	Jean-Jacques Rousseau		;	1775
+B956	;	Dangerous Liaisons 	;	Pierre Choderlos de Laclos		;	1881
+B957	;	Reveries of a Solitary Walker 	;	Jean-Jacques Rousseau		;	1869
+B958	;	Evelina 	;	Fanny Burney		;	2009
+B959	;	The Sorrows of Young Werther 	;	Johann Wolfgang von Goethe		;	1929
+B96	;	Underworld 	;	Don DeLillo		;	1921
+B960	;	Humphrey Clinker 	;	Tobias George Smollett		;	1954
+B961	;	The Man of Feeling 	;	Henry Mackenzie		;	1916
+B962	;	A Sentimental Journey 	;	Laurence Sterne		;	1976
+B963	;	Tristram Shandy 	;	Laurence Sterne		;	1716
+B964	;	The Vicar of Wakefield 	;	Oliver Goldsmith		;	1723
+B965	;	The Castle of Otranto 	;	Horace Walpole		;	1984
+B966	;	Émile	;	Jean-Jacques Rousseau		;	1805
+B967	;	Rameau’s Nephew 	;	Denis Diderot		;	1781
+B968	;	Julie	;	Jean-Jacques Rousseau		;	1962
+B969	;	Rasselas 	;	Samuel Johnson		;	1843
+B97	;	Jack Maggs 	;	Peter Carey		;	1979
+B970	;	Candide 	;	Voltaire		;	1767
+B971	;	The Female Quixote 	;	Charlotte Lennox		;	1804
+B972	;	Amelia 	;	Henry Fielding		;	1879
+B973	;	Peregrine Pickle 	;	Tobias George Smollett		;	1717
+B974	;	Fanny Hill 	;	John Cleland		;	1991
+B975	;	Tom Jones 	;	Henry Fielding		;	1829
+B976	;	Roderick Random 	;	Tobias George Smollett		;	1804
+B977	;	Clarissa 	;	Samuel Richardson		;	1987
+B978	;	Pamela 	;	Samuel Richardson		;	1995
+B979	;	Jacques the Fatalist 	;	Denis Diderot		;	1799
+B98	;	The Life of Insects 	;	Victor Pelevin		;	1916
+B980	;	Memoirs of Martinus Scriblerus 	;	J. Arbuthnot, J. Gay, T. Parnell, A. Pope, J. Swift		;	1758
+B981	;	Joseph Andrews 	;	Henry Fielding		;	1906
+B982	;	A Modest Proposal 	;	Jonathan Swift		;	1772
+B983	;	Gulliver’s Travels 	;	Jonathan Swift		;	1834
+B984	;	Roxana 	;	Daniel Defoe		;	1968
+B985	;	Moll Flanders 	;	Daniel Defoe		;	1799
+B986	;	Love in Excess 	;	Eliza Haywood		;	1766
+B987	;	Robinson Crusoe 	;	Daniel Defoe		;	1966
+B988	;	A Tale of a Tub 	;	Jonathan Swift		;	1991
+B989	;	Oroonoko 	;	Aphra Behn		;	1876
+B99	;	American Pastoral 	;	Philip Roth		;	1797
+B990	;	The Princess of Clèves 	;	Marie-Madelaine Pioche de Lavergne, Comtesse de La Fayette		;	1807
+B991	;	The Pilgrim’s Progress 	;	John Bunyan		;	1741
+B992	;	Don Quixote 	;	Miguel de Cervantes Saavedra		;	1801
+B993	;	The Unfortunate Traveller 	;	Thomas Nashe		;	1938
+B994	;	Euphues: The Anatomy of Wit 	;	John Lyly		;	2012
+B995	;	Gargantua and Pantagruel 	;	Françoise Rabelais		;	1998
+B996	;	The Thousand and One Nights 	;	Anonymous		;	1871
+B997	;	The Golden Ass 	;	Lucius Apuleius		;	1739
+B998	;	Aithiopika 	;	Heliodorus		;	1829
+B999	;	Chaireas and Kallirhoe 	;	Chariton		;	1716
+B1000 ; The Builder ; Bob ; 1991
+B1001 ; wer ; ter ; 1987
